@@ -13,8 +13,7 @@
   [Questions](#questions)
   ## Description
   This program allows users to organize and filter employee or user information using React functionality.<br> 
-  Github Deployed link:<br>
-  [github deployed link](https://mgmoreno22.github.io/EmployeeDirectory/)
+  [Github Deployed Link](https://mgmoreno22.github.io/EmployeeDirectory/)
 
   ## Installation
   Developers may install dependencies within the package.json file with the following command in your terminal:
